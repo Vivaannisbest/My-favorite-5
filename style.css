@@ -1,0 +1,72 @@
+body{
+  text-align:center;
+  background:linear-gradient(
+  
+  blue ,#90CAF9 100%);
+  background-repeat:no-repeat;
+  padding-top:100px;
+}
+img
+{
+  width:300px;
+} 
+
+h1{
+    font-family: 'Bubblegum Sans', cursive;
+  text-shadow:2px 2px #F8BBD0;
+  font-size:35px;
+}
+
+p{
+  font-size:25px;
+  color:white;
+  font-weight:bold;
+  
+  
+}
+}
+.line{
+  height:6px;
+  background-color:orange;
+  width:70px;
+  margin:8px auto;
+    
+   
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+    z-index: 10;
+    position:absolute
+}
+.links{
+    float:left
+        color: green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border: 2px solid orange;
+    display: inline;
+}
+html{
+   scroll-behavior: smooth;
+}
+a{
+    color: orange;
+}
+#Contact iframe{
+    Width:100%;
+}
+
